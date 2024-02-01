@@ -1,2 +1,2 @@
-# repositorio-nuevo
+# Mi primer README
 Nuevo repositorio en GitHub.
